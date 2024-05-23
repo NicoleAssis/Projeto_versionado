@@ -1,0 +1,118 @@
+E:\TESTE GUNA\TESTE GUNA\TESTE GUNA\bin\Debug\TESTE GUNA.exe.config
+E:\TESTE GUNA\TESTE GUNA\TESTE GUNA\bin\Debug\TESTE GUNA.exe
+E:\TESTE GUNA\TESTE GUNA\TESTE GUNA\bin\Debug\TESTE GUNA.pdb
+E:\TESTE GUNA\TESTE GUNA\TESTE GUNA\bin\Debug\Guna.UI2.dll
+E:\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\FarmaConnect.csproj.AssemblyReference.cache
+E:\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\TESTE_GUNA.projeto.view.FrmLogin.resources
+E:\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\TESTE_GUNA.Properties.Resources.resources
+E:\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\FarmaConnect.csproj.GenerateResource.cache
+E:\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\FarmaConnect.csproj.CoreCompileInputs.cache
+E:\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\TESTE GUNA.exe
+E:\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\TESTE GUNA.pdb
+E:\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\TESTE_GUNA.projeto.view.FrmCadastro.resources
+E:\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\TESTE_GUNA.projeto.view.FrmMenu.resources
+D:\TESTE GUNA\TESTE GUNA\TESTE GUNA\bin\Debug\TESTE GUNA.exe.config
+D:\TESTE GUNA\TESTE GUNA\TESTE GUNA\bin\Debug\TESTE GUNA.exe
+D:\TESTE GUNA\TESTE GUNA\TESTE GUNA\bin\Debug\TESTE GUNA.pdb
+D:\TESTE GUNA\TESTE GUNA\TESTE GUNA\bin\Debug\Guna.UI2.dll
+D:\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\FarmaConnect.csproj.AssemblyReference.cache
+D:\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\TESTE_GUNA.projeto.view.FrmCadastro.resources
+D:\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\TESTE_GUNA.projeto.view.FrmDepartamentos.resources
+D:\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\TESTE_GUNA.projeto.view.FrmLogin.resources
+D:\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\TESTE_GUNA.projeto.view.FrmMenu.resources
+D:\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\TESTE_GUNA.Properties.Resources.resources
+D:\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\FarmaConnect.csproj.GenerateResource.cache
+D:\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\FarmaConnect.csproj.CoreCompileInputs.cache
+D:\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\FarmaCon.AEF3C762.Up2Date
+D:\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\TESTE GUNA.exe
+D:\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\TESTE GUNA.pdb
+D:\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\TESTE_GUNA.projeto.view.FrmCompras.resources
+E:\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\TESTE_GUNA.projeto.view.FrmCompras.resources
+E:\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\TESTE_GUNA.projeto.view.FrmDepartamentos.resources
+E:\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\TESTE_GUNA.projeto.view.FrmPerfil.resources
+E:\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\TESTE_GUNA.projeto.view.FrmMessageBox.resources
+D:\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\TESTE_GUNA.projeto.view.FrmMessageBox.resources
+D:\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\TESTE_GUNA.projeto.view.FrmPerfil.resources
+D:\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\TESTE_GUNA.projeto.view.UserControlProduto.resources
+E:\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\TESTE_GUNA.projeto.view.UserControlProduto.resources
+E:\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\TESTE_GUNA.projeto.view.userControlDepartamentos.resources
+E:\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\TESTE_GUNA.projeto.view.UserControlComprasProdutos.resources
+E:\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\FarmaConnect.csproj.SuggestedBindingRedirects.cache
+E:\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\FarmaConnect.csproj.CopyComplete
+D:\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\TESTE_GUNA.projeto.view.FrmFrete.resources
+D:\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\TESTE_GUNA.projeto.view.UserControlComprasProdutos.resources
+C:\Users\Pichau\source\repos\Commit_TesteProject\TESTE GUNA\TESTE GUNA\TESTE GUNA\bin\Debug\TESTE GUNA.exe.config
+C:\Users\Pichau\source\repos\Commit_TesteProject\TESTE GUNA\TESTE GUNA\TESTE GUNA\bin\Debug\TESTE GUNA.exe
+C:\Users\Pichau\source\repos\Commit_TesteProject\TESTE GUNA\TESTE GUNA\TESTE GUNA\bin\Debug\TESTE GUNA.pdb
+C:\Users\Pichau\source\repos\Commit_TesteProject\TESTE GUNA\TESTE GUNA\TESTE GUNA\bin\Debug\Guna.UI2.dll
+C:\Users\Pichau\source\repos\Commit_TesteProject\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\FarmaConnect.csproj.AssemblyReference.cache
+C:\Users\Pichau\source\repos\Commit_TesteProject\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\TESTE_GUNA.projeto.view.FrmCadastro.resources
+C:\Users\Pichau\source\repos\Commit_TesteProject\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\TESTE_GUNA.projeto.view.FrmCompras.resources
+C:\Users\Pichau\source\repos\Commit_TesteProject\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\TESTE_GUNA.projeto.view.FrmDepartamentos.resources
+C:\Users\Pichau\source\repos\Commit_TesteProject\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\TESTE_GUNA.projeto.view.FrmFrete.resources
+C:\Users\Pichau\source\repos\Commit_TesteProject\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\TESTE_GUNA.projeto.view.FrmLogin.resources
+C:\Users\Pichau\source\repos\Commit_TesteProject\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\TESTE_GUNA.projeto.view.FrmMenu.resources
+C:\Users\Pichau\source\repos\Commit_TesteProject\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\TESTE_GUNA.projeto.view.FrmMessageBox.resources
+C:\Users\Pichau\source\repos\Commit_TesteProject\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\TESTE_GUNA.projeto.view.FrmPagamento.resources
+C:\Users\Pichau\source\repos\Commit_TesteProject\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\TESTE_GUNA.projeto.view.FrmPagCredito.resources
+C:\Users\Pichau\source\repos\Commit_TesteProject\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\TESTE_GUNA.projeto.view.FrmPagDebito.resources
+C:\Users\Pichau\source\repos\Commit_TesteProject\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\TESTE_GUNA.projeto.view.FrmPagFinalizar.resources
+C:\Users\Pichau\source\repos\Commit_TesteProject\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\TESTE_GUNA.projeto.view.FrmPagPix.resources
+C:\Users\Pichau\source\repos\Commit_TesteProject\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\TESTE_GUNA.projeto.view.FrmPerfil.resources
+C:\Users\Pichau\source\repos\Commit_TesteProject\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\TESTE_GUNA.projeto.view.UserControlComprasProdutos.resources
+C:\Users\Pichau\source\repos\Commit_TesteProject\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\TESTE_GUNA.projeto.view.userControlDepartamentos.resources
+C:\Users\Pichau\source\repos\Commit_TesteProject\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\TESTE_GUNA.projeto.view.UserControlPagItensEscolhidos.resources
+C:\Users\Pichau\source\repos\Commit_TesteProject\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\TESTE_GUNA.projeto.view.UserControlProduto.resources
+C:\Users\Pichau\source\repos\Commit_TesteProject\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\TESTE_GUNA.Properties.Resources.resources
+C:\Users\Pichau\source\repos\Commit_TesteProject\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\FarmaConnect.csproj.GenerateResource.cache
+C:\Users\Pichau\source\repos\Commit_TesteProject\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\FarmaConnect.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\Commit_TesteProject\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\FarmaCon.AEF3C762.Up2Date
+C:\Users\Pichau\source\repos\Commit_TesteProject\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\TESTE GUNA.exe
+C:\Users\Pichau\source\repos\Commit_TesteProject\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\TESTE GUNA.pdb
+C:\Users\Aluno\Downloads\Commit_TesteProject-20240520T220038Z-001\Commit_TesteProject\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\FarmaConnect.csproj.AssemblyReference.cache
+C:\Users\Aluno\Downloads\Commit_TesteProject-20240520T220038Z-001\Commit_TesteProject\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\FarmaConnect.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Downloads\Commit_TesteProject-20240520T220038Z-001\Commit_TesteProject\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\TESTE GUNA.exe
+C:\Users\Aluno\Downloads\Commit_TesteProject-20240520T220038Z-001\Commit_TesteProject\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\TESTE GUNA.pdb
+C:\Users\Aluno\Downloads\Commit_TesteProject-20240520T220038Z-001\Commit_TesteProject\TESTE GUNA\TESTE GUNA\TESTE GUNA\bin\Debug\TESTE GUNA.exe.config
+C:\Users\Aluno\Downloads\Commit_TesteProject-20240520T220038Z-001\Commit_TesteProject\TESTE GUNA\TESTE GUNA\TESTE GUNA\bin\Debug\TESTE GUNA.exe
+C:\Users\Aluno\Downloads\Commit_TesteProject-20240520T220038Z-001\Commit_TesteProject\TESTE GUNA\TESTE GUNA\TESTE GUNA\bin\Debug\TESTE GUNA.pdb
+C:\Users\Aluno\Downloads\Commit_TesteProject-20240520T220038Z-001\Commit_TesteProject\TESTE GUNA\TESTE GUNA\TESTE GUNA\bin\Debug\Guna.UI2.dll
+C:\Users\Aluno\Downloads\Commit_TesteProject-20240520T220038Z-001\Commit_TesteProject\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\TESTE_GUNA.projeto.view.FrmCadastro.resources
+C:\Users\Aluno\Downloads\Commit_TesteProject-20240520T220038Z-001\Commit_TesteProject\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\TESTE_GUNA.projeto.view.FrmCompras.resources
+C:\Users\Aluno\Downloads\Commit_TesteProject-20240520T220038Z-001\Commit_TesteProject\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\TESTE_GUNA.projeto.view.FrmDepartamentos.resources
+C:\Users\Aluno\Downloads\Commit_TesteProject-20240520T220038Z-001\Commit_TesteProject\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\TESTE_GUNA.projeto.view.FrmFrete.resources
+C:\Users\Aluno\Downloads\Commit_TesteProject-20240520T220038Z-001\Commit_TesteProject\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\TESTE_GUNA.projeto.view.FrmLogin.resources
+C:\Users\Aluno\Downloads\Commit_TesteProject-20240520T220038Z-001\Commit_TesteProject\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\TESTE_GUNA.projeto.view.FrmMenu.resources
+C:\Users\Aluno\Downloads\Commit_TesteProject-20240520T220038Z-001\Commit_TesteProject\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\TESTE_GUNA.projeto.view.FrmMessageBox.resources
+C:\Users\Aluno\Downloads\Commit_TesteProject-20240520T220038Z-001\Commit_TesteProject\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\TESTE_GUNA.projeto.view.FrmPagamento.resources
+C:\Users\Aluno\Downloads\Commit_TesteProject-20240520T220038Z-001\Commit_TesteProject\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\TESTE_GUNA.projeto.view.FrmPagCredito.resources
+C:\Users\Aluno\Downloads\Commit_TesteProject-20240520T220038Z-001\Commit_TesteProject\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\TESTE_GUNA.projeto.view.FrmPagDebito.resources
+C:\Users\Aluno\Downloads\Commit_TesteProject-20240520T220038Z-001\Commit_TesteProject\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\TESTE_GUNA.projeto.view.FrmPagFinalizar.resources
+C:\Users\Aluno\Downloads\Commit_TesteProject-20240520T220038Z-001\Commit_TesteProject\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\TESTE_GUNA.projeto.view.FrmPagPix.resources
+C:\Users\Aluno\Downloads\Commit_TesteProject-20240520T220038Z-001\Commit_TesteProject\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\TESTE_GUNA.projeto.view.FrmPerfil.resources
+C:\Users\Aluno\Downloads\Commit_TesteProject-20240520T220038Z-001\Commit_TesteProject\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\TESTE_GUNA.projeto.view.UserControlComprasProdutos.resources
+C:\Users\Aluno\Downloads\Commit_TesteProject-20240520T220038Z-001\Commit_TesteProject\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\TESTE_GUNA.projeto.view.userControlDepartamentos.resources
+C:\Users\Aluno\Downloads\Commit_TesteProject-20240520T220038Z-001\Commit_TesteProject\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\TESTE_GUNA.projeto.view.UserControlPagItensEscolhidos.resources
+C:\Users\Aluno\Downloads\Commit_TesteProject-20240520T220038Z-001\Commit_TesteProject\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\TESTE_GUNA.projeto.view.UserControlProduto.resources
+C:\Users\Aluno\Downloads\Commit_TesteProject-20240520T220038Z-001\Commit_TesteProject\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\TESTE_GUNA.Properties.Resources.resources
+C:\Users\Aluno\Downloads\Commit_TesteProject-20240520T220038Z-001\Commit_TesteProject\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\FarmaConnect.csproj.GenerateResource.cache
+C:\Users\Aluno\Downloads\Commit_TesteProject-20240520T220038Z-001\Commit_TesteProject\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\FarmaConnect.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\Commit_TesteProject-20240520T220038Z-001\Commit_TesteProject\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\FarmaConnect.csproj.CopyComplete
+E:\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\TESTE_GUNA.projeto.view.FrmFrete.resources
+E:\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\TESTE_GUNA.projeto.view.FrmPagamento.resources
+E:\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\TESTE_GUNA.projeto.view.FrmPagCredito.resources
+E:\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\TESTE_GUNA.projeto.view.FrmPagDebito.resources
+E:\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\TESTE_GUNA.projeto.view.FrmPagFinalizar.resources
+E:\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\TESTE_GUNA.projeto.view.FrmPagPix.resources
+E:\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\TESTE_GUNA.projeto.view.UserControlPagItensEscolhidos.resources
+E:\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\TESTE_GUNA.projeto.view.FrmPerfilAlterarSenha.resources
+D:\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\TESTE_GUNA.projeto.view.FrmPagamento.resources
+D:\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\TESTE_GUNA.projeto.view.FrmPagCredito.resources
+D:\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\TESTE_GUNA.projeto.view.FrmPagDebito.resources
+D:\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\TESTE_GUNA.projeto.view.FrmPagFinalizar.resources
+D:\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\TESTE_GUNA.projeto.view.FrmPagPix.resources
+D:\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\TESTE_GUNA.projeto.view.FrmPerfilAlterarSenha.resources
+D:\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\TESTE_GUNA.projeto.view.UserControlPagItensEscolhidos.resources
+D:\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\TESTE_GUNA.projeto.view.FrmComprasConcluidas.resources
+D:\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\TESTE_GUNA.projeto.view.UserControlComprasConcluidas.resources
+D:\TESTE GUNA\TESTE GUNA\TESTE GUNA\obj\Debug\TESTE_GUNA.projeto.view.FrmDepartamentoEscolhido.resources

@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TESTE GUNA\\TESTE GUNA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D805B58C-D1A5-4276-8087-E577E21A8D06}|TESTE GUNA\\FarmaConnect.csproj|D:\\TESTE GUNA\\TESTE GUNA\\teste guna\\projeto.view\\frmcompras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D805B58C-D1A5-4276-8087-E577E21A8D06}|TESTE GUNA\\FarmaConnect.csproj|solutionrelative:teste guna\\projeto.view\\frmcompras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D805B58C-D1A5-4276-8087-E577E21A8D06}|TESTE GUNA\\FarmaConnect.csproj|d:\\teste guna\\teste guna\\teste guna\\projeto.view\\frmpagfinalizar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D805B58C-D1A5-4276-8087-E577E21A8D06}|TESTE GUNA\\FarmaConnect.csproj|solutionrelative:teste guna\\projeto.view\\frmpagfinalizar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D805B58C-D1A5-4276-8087-E577E21A8D06}|TESTE GUNA\\FarmaConnect.csproj|d:\\teste guna\\teste guna\\teste guna\\projeto.view\\frmcomprasconcluidas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D805B58C-D1A5-4276-8087-E577E21A8D06}|TESTE GUNA\\FarmaConnect.csproj|solutionrelative:teste guna\\projeto.view\\frmcomprasconcluidas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D805B58C-D1A5-4276-8087-E577E21A8D06}|TESTE GUNA\\FarmaConnect.csproj|D:\\TESTE GUNA\\TESTE GUNA\\teste guna\\projeto.view\\frmcomprasconcluidas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D805B58C-D1A5-4276-8087-E577E21A8D06}|TESTE GUNA\\FarmaConnect.csproj|solutionrelative:teste guna\\projeto.view\\frmcomprasconcluidas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D805B58C-D1A5-4276-8087-E577E21A8D06}|TESTE GUNA\\FarmaConnect.csproj|d:\\teste guna\\teste guna\\teste guna\\projeto.view\\frmcompras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D805B58C-D1A5-4276-8087-E577E21A8D06}|TESTE GUNA\\FarmaConnect.csproj|solutionrelative:teste guna\\projeto.view\\frmcompras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmComprasConcluidas.cs [Design]",
+              "DocumentMoniker": "D:\\TESTE GUNA\\TESTE GUNA\\TESTE GUNA\\projeto.view\\FrmComprasConcluidas.cs",
+              "RelativeDocumentMoniker": "TESTE GUNA\\projeto.view\\FrmComprasConcluidas.cs",
+              "ToolTip": "D:\\TESTE GUNA\\TESTE GUNA\\TESTE GUNA\\projeto.view\\FrmComprasConcluidas.cs [Design]",
+              "RelativeToolTip": "TESTE GUNA\\projeto.view\\FrmComprasConcluidas.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T22:28:30.227Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmComprasConcluidas.cs",
+              "DocumentMoniker": "D:\\TESTE GUNA\\TESTE GUNA\\TESTE GUNA\\projeto.view\\FrmComprasConcluidas.cs",
+              "RelativeDocumentMoniker": "TESTE GUNA\\projeto.view\\FrmComprasConcluidas.cs",
+              "ToolTip": "D:\\TESTE GUNA\\TESTE GUNA\\TESTE GUNA\\projeto.view\\FrmComprasConcluidas.cs",
+              "RelativeToolTip": "TESTE GUNA\\projeto.view\\FrmComprasConcluidas.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAiwBYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T00:40:00.787Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmCompras.cs [Design]",
+              "DocumentMoniker": "D:\\TESTE GUNA\\TESTE GUNA\\TESTE GUNA\\projeto.view\\FrmCompras.cs",
+              "RelativeDocumentMoniker": "TESTE GUNA\\projeto.view\\FrmCompras.cs",
+              "ToolTip": "D:\\TESTE GUNA\\TESTE GUNA\\TESTE GUNA\\projeto.view\\FrmCompras.cs [Design]",
+              "RelativeToolTip": "TESTE GUNA\\projeto.view\\FrmCompras.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T21:38:00.154Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmPagFinalizar.cs [Design]",
+              "DocumentMoniker": "D:\\TESTE GUNA\\TESTE GUNA\\TESTE GUNA\\projeto.view\\FrmPagFinalizar.cs",
+              "RelativeDocumentMoniker": "TESTE GUNA\\projeto.view\\FrmPagFinalizar.cs",
+              "ToolTip": "D:\\TESTE GUNA\\TESTE GUNA\\TESTE GUNA\\projeto.view\\FrmPagFinalizar.cs [Design]",
+              "RelativeToolTip": "TESTE GUNA\\projeto.view\\FrmPagFinalizar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T22:22:55.933Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmCompras.cs",
+              "DocumentMoniker": "D:\\TESTE GUNA\\TESTE GUNA\\TESTE GUNA\\projeto.view\\FrmCompras.cs",
+              "RelativeDocumentMoniker": "TESTE GUNA\\projeto.view\\FrmCompras.cs",
+              "ToolTip": "D:\\TESTE GUNA\\TESTE GUNA\\TESTE GUNA\\projeto.view\\FrmCompras.cs",
+              "RelativeToolTip": "TESTE GUNA\\projeto.view\\FrmCompras.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAA5wD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T22:04:06.193Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
